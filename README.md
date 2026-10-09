@@ -5,7 +5,7 @@ time, estimates entropy, flags weak/common patterns, checks a password
 against known data breaches (without ever sending it anywhere in full),
 checks for password reuse, and generates strong replacement passwords.
 
-**Live site:** https://rishabhh077.github.io/password_strength_analyzer/
+**Live site:** https://rishabhh077.github.io/password_strength_analyzer_-_breach/
 
 Everything runs entirely in the browser. There is no backend, no
 build step, and no framework — just HTML5, CSS3, and vanilla
